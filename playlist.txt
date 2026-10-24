@@ -1,0 +1,51 @@
+TOTAL: 50
+1. VkLByLa5W3k | Claude Opus 4.1 -- The new king of coding?
+2. gv0WHhKelSE | Claude Code best practices | Code w/ Claude
+3. 7fQcsPOm8ys | Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?
+4. xf65vxjNWdk | Using GitHub Copilot for code reviews: from VS Code to github.com
+5. KZeIEiBrT_w | The Strange Math That Predicts (Almost) Anything
+6. -w53i6Ae-YM | Alibaba is coming for Claude...
+7. w4rG5GY9IlA | Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU
+8. CSt23RTkmbQ | I Tested Claude Code: $20 vs. $200 Subscription
+9. FWAdfuPpLOc | World's Fastest Car Vs Cheetah!
+10. jGztGfRujSE | iOS 26: Introducing Liquid Glass
+11. Wa9wv5qV1Uk | Amazon 4k : The Breathtaking Journey Into Amazon Rainforest | Nature’s Green Paradise
+12. iwRaNYa8yTw | Inside a Real High-Frequency Trading System | HFT Architecture
+13. oV9tAkS2Xic | OpenHands + Devstral = A Fully Local Coding Agent
+14. VBSf1e9uMdw | My first week as a big tech software engineer in New York 🕹️
+15. SSKVgrwhzus | SQL Full Course for Beginners (30 Hours) – From Zero to Hero
+16. a9u2yZvsqHA | How To Use GitHub For Beginners
+17. sX2nF1fW7kI | When Nanoseconds Matter: Ultrafast Trading Systems in C++ - David Gross - CppCon 2024
+18. bhQ7VVZqGSQ | Day in the Life of an MIT Computer Science Student
+19. eP_P4KOjwhs | Why Applications Are Operating-System Specific
+20. 6PEJ96k1kiw | Speculations on Test-Time Scaling (o1)
+21. sQqniayndb4 | Probability and Statistics: Overview
+22. kGiaKTHmfyE | Welcome to Carnegie Mellon, Class of 2028
+23. qNlwVGxkG7Q | How to write an okay research paper.
+24. T1QOf1GfGuI | Day in the Life of a Data Scientist in San Francisco
+25. r8ForU8slWk | Pain physiology mbbs 1st year, pain pathways, endogenous pain relief system
+26. zc-29W_p1M4 | Convert Fluorescent Tube Lights to LED - Easy Ballast Bypass Instructional | Builds by Maz
+27. KuXjwB4LzSA | But what is a convolution?
+28. hREfleo04GE | Day in the Life of a Data Science Student at UC Berkeley
+29. FThvfkXWqtE | MedAI #54: FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | Tri Dao
+30. bOXCLR3Wric | Olympiad level counting  (Generating functions)
+31. ykC3vb9K8a8 | I Dropped Computer Science at CMU: Here's Why
+32. -5XxqW9Z7PI | UC Berkeley Campus Tour: World's Best Public University
+33. rfBeq-Fu0hc | STM32 Guide #1: Your first STM32 dev board
+34. N_z4OaSuoAA | Top 10 IoT Projects 2026 | Useful IoT Devices | Smart IoT Projects | IoT Applications | Simplilearn
+35. 6mBO2vqLv38 | IoT | Internet of Things | What is IoT ? | How IoT Works? | IoT Explained in 6 Minutes | Simplilearn
+36. nn_0zPAfyo8 | Taylor Swift – august (Official Lyric Video)
+37. HZGCoVF3YvM | Bayes theorem, the geometry of changing beliefs
+38. nyHnU123Iew | My Life At The #1 CS College in the US: Carnegie Mellon
+39. Unzc731iCUY | How to Speak
+40. ESd5Nt8sHE0 | How I Became a Software Developer @ GitHub - Brooks Swinnerton
+41. spUNpyF58BY | But what is the Fourier Transform?  A visual introduction.
+42. 1xZede32V6c | 陶喆 David Tao – 找自己 Rain (官方完整版MV)
+43. o8NPllzkFhE | The Mind Behind Linux | Linus Torvalds | TED
+44. VkMU1mKdwPI | Film Theory: Neo ISN'T The One in The Matrix Trilogy
+45. f9XFM8YLccg | 3. Probability Theory
+46. oBc_BHxw78s | Why Learn Control Theory
+47. cmpRLQZkTb8 | Oasis - Don’t Look Back In Anger
+48. Bbp9ZaJD_eA | 周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video
+49. maTP315XZCQ | Oasis - Stand By Me (Official Video)
+50. VuNIsY6JdUw | Taylor Swift - You Belong With Me
