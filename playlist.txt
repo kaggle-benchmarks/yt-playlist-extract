@@ -50,4 +50,6 @@ TOTAL: 50
 49. maTP315XZCQ | Oasis - Stand By Me (Official Video)
 50. VuNIsY6JdUw | Taylor Swift - You Belong With Me
 
-continuation OK
+continuations found: 2
+cont[0] OK, items in resp: 0, new added: 0
+cont[1] OK, items in resp: 0, new added: 0
